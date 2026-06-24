@@ -1,21 +1,24 @@
-# Progress
+# Progress Tracker
 
-Track completed topics and problems here.
+## Current Stats
 
-## Topics
+Problems Solved: 9
 
-- [ ] Array and String
-- [ ] Two Pointers
-- [ ] Sliding Window
-- [ ] Stack
-- [ ] Queue
-- [ ] Binary Search
-- [ ] Linked List
-- [ ] Trees
-- [ ] Graphs
-- [ ] Dynamic Programming
+## Monthly Goals
 
-## Problems
+### July 2026
+- Reach 50 problems
 
-| Date | Topic | Problem | Status | Notes |
-| --- | --- | --- | --- | --- |
+### August 2026
+- Reach 100 problems
+
+### September 2026
+- Reach 150 problems
+
+## Current Topic
+
+Array / String
+
+## Next Topic
+
+Two Pointers
